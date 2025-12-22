@@ -6,9 +6,9 @@
     --accent-gradient: linear-gradient(135deg, var(--primary-orange) 0%, var(--primary-light) 100%);
     
     /* Light Mode (Base definitions) */
-    --bg-body: #ffffffee;
+    --bg-body: beige;
     --bg-nav: rgba(255, 255, 255, 0.9);
-    --bg-card: #ffffffee;
+    --bg-card: beige;
     --bg-alt: #fffbf0; /* Very subtle warm sunny tint */
     --text-main: #2d3436;
     --text-light: #636e72;
